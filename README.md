@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="kk">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
             background-color: #f5f5f5;
             margin: 0;
             padding: 20px;
-            background-image: url('1қ.jpg');
+            background-image: url('11.jpg');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
